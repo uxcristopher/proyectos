@@ -8,13 +8,14 @@
 
 Muestrale a cientos de empresas los beneficios de usar esta increíble pasarela de pagos, además crearás un gran diseño lleno de color.
 
-## Desktop
-
-<img width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/striped/striped-desktop.png?raw=true" />
-
-## Mobile
-
-<img width="280px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/striped/striped-mobile.png?raw=true" />
+## Requerimientos
+- Busca el mejor rendimiento posible
+- Aplica el responsive
+- Exporta los estilos con el siguiente plugin: https://www.figma.com/community/plugin/972939585144317012/Figma-to-CSS
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Disclaimer
 
@@ -24,16 +25,9 @@ Todas son propuestas, el propósito de **/Proyectos** es brindarte el diseño, e
 
 Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
 
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
 ## Nivel 2
 
-Crea el sitio mobile first, utiliza la propiedad clip path para crear los polígonos.
+Crea el sitio mobile first, utiliza la propieda clip path para crear los polígonos.
 
 Requerimientos
 
@@ -43,6 +37,15 @@ Requerimientos
 - Sube tu código a GitHub
 - Publica tu resultado con github pages
 - Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
+
+## Desktop
+
+<img width="400px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/striped/striped-desktop.png?raw=true" />
+
+## Mobile
+
+<img width="280px"  src="https://github.com/no-te-rindas/imagenes/blob/main/Readmes/striped/striped-mobile.png?raw=true" />
+
 
 ## Créditos
 

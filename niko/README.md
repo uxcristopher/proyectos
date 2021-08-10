@@ -1,12 +1,20 @@
 <div align="center">
-<a href="https://leonidasesteban.com/proyectos">
-  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
-</a>
+<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 # Niko
 
 Lleva a código la primera iteración del ecommerce de una marca bastante posicionada en el mundo de los sneakers.
+
+## Requerimientos
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Agregar y eliminar productos del carrito
+- Terminar diseño responsive
+- Darle funcionalidad al checkout
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
+
 
 ## Desktop
 
@@ -48,18 +56,9 @@ Requerimientos
 ## Nivel 3
 
 Termina las dos vistas mobile y desktop, además dale funcionalidad al checkout agregando una pasarela de pagos y permite eliminar y agregar productos al carrito.
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Agregar y eliminar productos del carrito
-- Terminar diseño responsive
-- Darle funcionalidad al checkout
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Créditos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
+Diseñado con ♥️ en leonidasesteban.com

@@ -1,12 +1,23 @@
 <div align="center">
-<a href="https://leonidasesteban.com/proyectos">
-  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
-</a>
+<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 # Sector
 
 Haz realidad el rediseño de una marca muy reconocida de longboards.
+
+## Requerimientos
+
+Crea el responsive siendo mobile first, optimiza la carga de imagénes.
+
+Requerimientos
+
+- Accesibilidad como prioridad
+- Optimización de imagénes
+- Mobile first
+- Sube tu código a GitHub
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Desktop
 
@@ -20,32 +31,8 @@ Haz realidad el rediseño de una marca muy reconocida de longboards.
 
 Todas son propuestas, el propósito de **/Proyectos** es brindarte el diseño, el límite de la creación lo dictan tus ganas de hacerlo realidad y tu skills del momento a la hora de codear.
 
-## Nivel 1
-
-Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
-
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
-## Nivel 2
-
-Crea el responsive siendo mobile first, optimiza la carga de imagénes.
-
-Requerimientos
-
-- Accesibilidad como prioridad
-- Optimización de imagénes
-- Mobile first
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
 ## Créditos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
+Diseñado con ♥️ en leonidasesteban.com

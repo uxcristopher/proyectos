@@ -1,12 +1,29 @@
 <div align="center">
-<a href="https://leonidasesteban.com/proyectos">
-  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
-</a>
+<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 # Portafolio Edwyn
 
 Si te gustan los colores pastel, este portafolio te encantará, resalta tus mejores proyectos y tus habilidades en tu siguiente proceso de reclutamiento.
+
+## Requerimientos
+
+Dale vida al formulario de contacto, lo puedes lograr sin backend.
+
+Tenemos un par de clases para ayudarte:
+
+- [Creando un formulario de contacto funcional con JavaScript](https://youtu.be/V79bslyDIT8)
+
+- [Envío de formulario de contacto por correo con el API de Formspree](https://youtu.be/qtH8PLuy1Ck)
+
+
+- Formulario funcional y accesible
+- Dominio custom
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Publica tu resultado
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
+
 
 ## Desktop
 
@@ -20,49 +37,8 @@ Si te gustan los colores pastel, este portafolio te encantará, resalta tus mejo
 
 Todas son propuestas, el propósito de **/Proyectos** es brindarte el diseño, el límite de la creación lo dictan tus ganas de hacerlo realidad y tu skills del momento a la hora de codear.
 
-## Nivel 1
-
-Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
-
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
-## Nivel 2
-
-Compra tu dominio y despliega ahí tu portafolio, además de agregar tu información y tu foto.
-
-Requerimientos
-
-- Dominio custom
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
-## Nivel 3
-
-Dale vida al formulario de contacto, lo puedes lograr sin backend.
-
-Tenemos un par de clases para ayudarte:
-
-- [Creando un formulario de contacto funcional con JavaScript](https://youtu.be/V79bslyDIT8)
-
-- [Envío de formulario de contacto por correo con el API de Formspree](https://youtu.be/qtH8PLuy1Ck)
-
-Requerimientos
-
-- Formulario funcional y accesible
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
 ## Créditos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
+Diseñado con ♥️ en leonidasesteban.com

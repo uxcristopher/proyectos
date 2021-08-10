@@ -1,12 +1,18 @@
 <div align="center">
-<a href="https://leonidasesteban.com/proyectos">
-  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
-</a>
+<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 # Pokédex
 
 Atrapa todos los pokemones construyendo tu propia Pokédex.
+
+## Requerimientos
+
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Configuración de PWA
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Desktop
 
@@ -20,26 +26,12 @@ Todas son propuestas, el propósito de **/Proyectos** es brindarte el diseño, e
 
 Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
 
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
 ## Nivel 2
 
 Utiliza la PokéAPI para poder acceder a todos los pokemones y practicar tus peticiones con [fetch API](https://youtu.be/aKPcs-EIzZI).
 
 [Link a la PokéAPI](https://pokeapi.co/)
 
-Requerimientos
-
-- Accesibilidad como prioridad
-- Conexión con la PokéAPI
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 **Bonus:** Tenemos una clase en youtube: https://youtu.be/dRIZNayrcLk
 
@@ -47,13 +39,6 @@ Requerimientos
 
 Lleva tu Pokédex a todos lados, crea la configuración para usar tu sitio como una PWA y poder atrapar todos los pokemones.
 
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Configuración de PWA
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ¿Quieres ayuda con PWA? [Link a la documentación](https://web.dev/progressive-web-apps/)
 
@@ -61,4 +46,4 @@ Requerimientos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
+Diseñado con ♥️ en leonidasesteban.com

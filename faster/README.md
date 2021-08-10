@@ -1,12 +1,19 @@
 <div align="center">
-<a href="https://leonidasesteban.com/proyectos">
-  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
-</a>
+<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 # Faster
-
 Crea el sitio para contarle a la gente del nuevo checkout que es veloz y busca ayudar a mejorar el comercio electrónico.
+
+## Requerimentos
+
+Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
+
+- Cubre todos los escenarios del diseño
+- Aplica todos los estados de los componentes mostrados en el diseño
+- Sube tu código a GitHub
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Desktop
 
@@ -20,45 +27,13 @@ Crea el sitio para contarle a la gente del nuevo checkout que es veloz y busca a
 
 Todas son propuestas, el propósito de **/Proyectos** es brindarte el diseño, el límite de la creación lo dictan tus ganas de hacerlo realidad y tu skills del momento a la hora de codear.
 
-## Nivel 1
 
-Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
+## Revisión
 
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
-## Nivel 2
-
-Incluye el efecto de mantener el teléfono estático al hacer scroll.
-
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
-## Nivel 3
-
-¡Responsive! Crea el responsive siendo mobile first.
-
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Mobile first
-- Integrar una pasarela de pago
-- Agregar una lista de productos
-- Navegación entre productos
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
+Recuerda mandar tu proyecto a revisión, si aún no conoces como funciona el proceso de revisión lee este post: [Como usar proyectos en 3 pasos](https://leonidasesteban.com/blog/como-usar-proyectos-en-3-pasos)
 
 ## Créditos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
+Diseñado con ♥️ en leonidasesteban.com

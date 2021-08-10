@@ -1,12 +1,19 @@
 <div align="center">
-<a href="https://leonidasesteban.com/proyectos">
-  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
-</a>
+<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 # Portafolio Anthony
 
 Puedes tener tu portafolio y tu blog en un mismo lugar, si eso buscas, este es tu diseño.
+
+## Requerimientos
+
+- Menú hamburguesa
+- Vista blogpost
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Publica tu resultado
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Desktop
 
@@ -24,40 +31,18 @@ Todas son propuestas, el propósito de **/Proyectos** es brindarte el diseño, e
 
 Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
 
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Nivel 2
 
 Compra tu dominio y despliega ahí tu portafolio, además de agregar tu información.
 
-Requerimientos
-
-- Dominio custom
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Nivel 3
 
 Agrega el menú hamburguesa y crea tu primer blogpost.
 
-Requerimientos
-
-- Menú hamburguesa
-- Vista blogpost
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
-
 ## Créditos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
+Diseñado con ♥️ en leonidasesteban.com

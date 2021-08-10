@@ -1,12 +1,18 @@
 <div align="center">
-<a href="https://leonidasesteban.com/proyectos">
-  <img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
-</a>
+<img width="120px"  src="https://raw.githubusercontent.com/no-te-rindas/logo/main/Logo/LeonidasEsteban-destello-envolvente-cuadrada.png" />
 </div>
 
 # Amazonas
 
 Construye el sitio de ventas en línea más grande de todos los tiempos, además añade tus productos favoritos.
+
+## Requerimientos
+- Exportar estilos con el siguiente plugin: https://www.figma.com/community/plugin/972939585144317012/Figma-to-CSS
+- Aplicar zoom en la imagen al hacer hover
+- Accesibilidad como prioridad
+- Sube tu código a GitHub
+- Publica tu resultado con github pages
+- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Desktop
 
@@ -20,12 +26,6 @@ Todas son propuestas, el propósito de **/Proyectos** es brindarte el diseño, e
 
 Estilo libre. Lleva el diseño al código utilizando tu framework favorito, o con HTML y CSS, no hay ninguna limitación.
 
-Requerimientos
-
-- Accesibilidad como prioridad
-- Sube tu código a GitHub
-- Publica tu resultado con github pages
-- Mándalo a revisión desde tu [perfil](https://leonidasesteban.com/estudiante)
 
 ## Nivel 2
 
@@ -57,4 +57,4 @@ Requerimientos
 
 Encuentra más proyectos asombrosos en [/Proyectos](https://leonidasesteban.com/proyectos)
 
-Diseñado con ♥️ en [leonidasesteban.com](https://leonidasesteban.com)
+Diseñado con ♥️ en leonidasesteban.com
